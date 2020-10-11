@@ -1,0 +1,18 @@
+body {
+	width: 500px;
+	text-align: center;
+	margin: auto;
+}
+
+h1 {
+	font-family: FreeMono;
+	width: 250px;
+	text-align: center;
+	margin: auto;
+	border-bottom: 5px solid blue;
+	border-left: 5px solid blue;
+}
+
+h2 {
+	text-decoration: underline solid blue;
+}
