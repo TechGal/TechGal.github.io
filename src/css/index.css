@@ -18,6 +18,13 @@ h3 {
 	margin-left: 45px;
 }
 
+.cv-description {
+	margin-left: 90px;
+	margin-bottom: 25px;
+	padding-left: 15px;
+	border-left: 3px solid black;
+}
+
 /* Sidebar */
 .sidenav {
 	height: 100%;
